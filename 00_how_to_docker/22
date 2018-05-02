@@ -1,8 +1,1 @@
-docker swarm join --token SWMTKN-1-1w1rgmayfu7tf165zci1ym03dqmbc0j6ejpbp3ir484u3cojl7-4tu4vav7xrrdlpx6ybjmccwbm 192.168.99.100:2377
-
-# Steps? - ask someone
-# eval $(docker-machine env Char)
-# docker swarm init --listen-addr $(docker-machien ip Char) --advertise-addr $(docker-machine ip Char)
-# token=$(docker swarm join-token -q worker)
-# eval $(docker-machine env Aiiur)
-# docker swarm join --token $token $(docker-machine ip Char):2377
+docker swarm join --token SWMTKN-1-0qisuo2rdt9xajh22yw1kryxgdo49tx8q4c7pa6ksky0ljejas-ctqofnt7864wci4wtkp2jgmza 192.168.99.100:2377
