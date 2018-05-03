@@ -1,1 +1,1 @@
-docker ps -f name=Char
+docker ps
